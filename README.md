@@ -1,6 +1,7 @@
 # game
-
 > Nuxt.js project
+Civilization: A New Dawn Cards　の世界遺産の表示と効果の確認をするアプリ
+https://gemo31240.github.io/game/index.html
 
 ## Build Setup
 
